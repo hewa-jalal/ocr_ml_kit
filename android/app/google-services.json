@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316174600626",
+    "firebase_url": "https://ocr-ml-kit-5153e.firebaseio.com",
+    "project_id": "ocr-ml-kit-5153e",
+    "storage_bucket": "ocr-ml-kit-5153e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316174600626:android:32da859e69afdea53ffcab",
+        "android_client_info": {
+          "package_name": "com.hiwad.ocr_ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316174600626-tvqm1pdl0rgsubj6l7ac7vr7lsak06fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogJX9imdZ8DC5-lNs0IqOmY3jGYUFO90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316174600626-tvqm1pdl0rgsubj6l7ac7vr7lsak06fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
